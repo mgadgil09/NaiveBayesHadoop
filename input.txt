@@ -1,0 +1,5 @@
+CCAT	Chinese Beijing Chinese
+CCAT	Chinese Chinese Shanghai
+CCAT	Chinese Macao
+MCAT	Tokyo Japan Chinese
+

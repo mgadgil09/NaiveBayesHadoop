@@ -1,0 +1,13 @@
+Beijing	*Model*CCAT,1|
+Chinese	*Model*MCAT,1|*Model*CCAT,5|*Test*CCAT_1count3|
+Japan	*Test*CCAT_1count1|*Model*MCAT,1|
+Macao	*Model*CCAT,1|
+Shanghai	*Model*CCAT,1|
+Tokyo	*Model*MCAT,1|*Test*CCAT_1count1|
+cCCAT	8	CCAT	8
+cMCAT	3	MCAT	3
+cdocCCAT	3	docCCAT	3
+cdocMCAT	1	docMCAT	1
+cdocTotal	4	docTotal	4
+clabels	2	labels	2
+cvocab	6	vocab	6
