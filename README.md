@@ -1,7 +1,7 @@
 ## Synopsis  
 Implement Naive Bayes classification on Apache Hadoop.
 
-##Dataset Details  
+## Dataset Details  
 Data used is from Reuters Corpus which is a set of news stories split into a
 hierarchy of categories. There are multiple class labels per document. This is a multi-class classification problem with following 4 classes
 • CCAT: Corporate/Industrial
@@ -11,7 +11,7 @@ hierarchy of categories. There are multiple class labels per document. This is a
 
 Datasets available at: https://ugammd.blob.core.windows.net/rcv1/
 
-##Method  
+## Method  
 There are 5 Map-Reduce java classes chained in a specific manner. First, the training data is cleaned, all data counts are calculated and passed along, train the NB classifier, clean test data and finally apply the algorithm.
 
 ```
